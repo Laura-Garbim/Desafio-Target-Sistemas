@@ -1,0 +1,7 @@
+Para identificar qual interruptor controla qual lâmpada, poderia ligar o primeiro interruptor e manter ele ligado por alguns minutos, pois isso permitiria que a lâmpada 
+conectada a esse interruptor aqueça, dessa forma, após esse período, desligar o primeiro interruptor e ligar o segundo. Depois, ir até as salas das lâmpadas e observar 
+elas, isso porque:
+
+A lâmpada que está acesa é a que está conectada ao segundo interruptor. E se tocar nas lâmpadas que estão apagadas, a lâmpada que está quente é a que estava acessa no 
+primeiro interruptor, que foi ligado por um tempo e depois desligado. A lâmpada que está fria e apagada é a que está conectada ao terceiro interruptor, que nunca foi ligado.
+Assim, da para identificar cada interruptor e lâmpada.
